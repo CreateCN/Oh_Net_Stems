@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "ohnetstems:block/net_stem_workbench_flank",
+    "up": "ohnetstems:block/net_stem_workbench_top",
+    "north": "ohnetstems:block/net_stem_workbench_flank",
+    "east": "ohnetstems:block/net_stem_workbench_flank",
+    "south": "ohnetstems:block/net_stem_workbench_flank",
+    "west": "ohnetstems:block/net_stem_workbench_flank",
+    "particle": "ohnetstems:block/net_stem_workbench_flank"
+  },
+  "render_type": "solid"
+}
