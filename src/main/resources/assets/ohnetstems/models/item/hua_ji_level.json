@@ -1,5 +1,5 @@
 {
-  "parent": "ohnetstems:block/net_stem_workbench_block",
+  "parent": "ohnetstems:block/hua_ji_level",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -27,7 +27,6 @@ import java.util.ArrayList;
 import java.util.AbstractMap;
 
 import io.github.createcn.ohnetstems.init.OhnetstemsModTabs;
-import io.github.createcn.ohnetstems.init.OhnetstemsModMenus;
 import io.github.createcn.ohnetstems.init.OhnetstemsModItems;
 import io.github.createcn.ohnetstems.init.OhnetstemsModBlocks;
 
@@ -48,7 +47,6 @@ public class OhnetstemsMod {
 
 		OhnetstemsModTabs.REGISTRY.register(bus);
 
-		OhnetstemsModMenus.REGISTRY.register(bus);
 		// Start of user code block mod init
 		// End of user code block mod init
 	}

@@ -1,6 +1,6 @@
 {
   "type": "minecraft:block",
-  "random_sequence": "ohnetstems:blocks/net_stem_workbench_block",
+  "random_sequence": "ohnetstems:blocks/hua_ji_sapling",
   "pools": [
     {
       "rolls": 1.0,
@@ -12,7 +12,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "ohnetstems:net_stem_workbench_block"
+          "name": "ohnetstems:hua_ji_sapling"
         }
       ]
     }
