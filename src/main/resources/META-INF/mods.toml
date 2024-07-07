@@ -4,11 +4,11 @@ license="Not specified"
 
 [[mods]]
 modId="ohnetstems"
-version="1.0.0"
+version="0.1.1-Alpha"
 displayName="Oh!NetStems"
 displayURL=""
-credits=""
-authors="CreateCN, MCreator"
+credits="MCreator"
+authors="CreateCN"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration
