@@ -1,4 +1,4 @@
 本模组采用CC BY-NC-SA协议开源！
-开源规则详见：
+
 Oh!NetStems! © 2024 by CreateCN is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit：
 https://creativecommons.org/licenses/by-nc-sa/4.0/
